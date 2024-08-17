@@ -39,28 +39,33 @@ Here are some important instructions you need to follow:
 - Keep all your responses short and simple. Use casual language, phrases like "Umm...", "Well...", and "I mean" are preferred.
 - This is a voice conversation, so keep your responses short, like in a real conversation. Don't ramble for too long.
 
- ![image](https://github.com/Jiten-Advic/Vapi-AI-Voice-Assistant/assets/169840985/00c02971-98ac-4057-9e5d-2294d40976ae)
+![image](https://github.com/user-attachments/assets/e6aee800-dfd5-44ca-bc59-8f0746322731)
+
 
 	            
 Step 2: Create Functions Using the Dashboard Function Option
 - Create a function named “Check_bookings” to check appointments on a given date.
 - Integrate this function with Vapi by connecting it to a webhook URL from Make.com
 
- ![image](https://github.com/Jiten-Advic/Vapi-AI-Voice-Assistant/assets/169840985/8e043a85-a450-4646-a12f-4039f20119a9)
+![image](https://github.com/user-attachments/assets/915ebe47-cbed-4066-97fc-ede38051a023)
+
 
 - Create a Second function named “Book_the_slot” for book appointments on a given date and time and also take name and purpose of appointment from user.
 - Integrate this function with Vapi by connecting it to a webhook URL from Make.com
 
-![Untitled design (2)](https://github.com/Jiten-Advic/Vapi-AI-Voice-Assistant/assets/169840985/0276ef8a-42f6-460c-bc1b-68fab0cdf574)
+![Untitled design (3)](https://github.com/user-attachments/assets/097aea92-38a3-4bfc-9f0d-8d031901f843)
+
 
 Step 3: Create Flows in Make.com
 - Create the first flow for checking appointments.
 
- ![image](https://github.com/Jiten-Advic/Vapi-AI-Voice-Assistant/assets/169840985/d6069aed-2ccb-48f5-8bf5-0ada90644793)
+![image](https://github.com/user-attachments/assets/d015c0ea-e38f-4a81-b0fa-55dbee17e012)
+
 
 - Create the second flow for booking appointments.
 
-![image](https://github.com/Jiten-Advic/Vapi-AI-Voice-Assistant/assets/169840985/6fdfa9d1-3ef5-4a56-a5bc-ad8ef540bf8b)
+![image](https://github.com/user-attachments/assets/7826c631-032f-4862-b428-7c1ff2766037)
+
 
 
 
